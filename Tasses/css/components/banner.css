@@ -1,0 +1,20 @@
+.banner {
+      background-color: #4a90e2; /* Couleur de fond */
+      background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url('../../images/banner.jpg'); /* Image de fond */
+      background-size: cover;
+      background-position: center;
+      text-align: center; /* Centrer le texte */
+      padding: 50px 20px; /* Espacement vertical et horizontal */
+      font-size: 2em; 
+      /* Taille du texte */
+        }
+.banner h1 {
+	font-size: 50px ;
+	color: #FFF4EA ;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0,8;
+	color: #FFF4EA ;
+}
